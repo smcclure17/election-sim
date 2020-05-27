@@ -1,0 +1,52 @@
+state,blue,red,result
+alabama,0.3836,0.6164,red
+alaska,0.3647,0.6353,red
+arizona,0.4513,0.5487,red
+arkansas,0.3364,0.6636,red
+california,0.6574,0.3426,blue
+colorado,0.4819,0.5181,red
+connecticut,0.5453,0.4547,blue
+deleware,0.5309,0.4691,blue
+washington dc,0.9001,0.0999,blue
+florida,0.4782,0.5218,red
+georgia,0.4568,0.5432,red
+hawaii,0.6216,0.3784,blue
+idaho,0.2742,0.7258,red
+illinois,0.5584,0.4416,blue
+indiana,0.379,0.621,red
+iowa,0.4174,0.5826,red
+kansas,0.3603,0.6397,red
+kentucky,0.327,0.673,red
+louisiana,0.3848,0.6152,red
+maine,0.478,0.522,red
+maryland,0.6034,0.3966,blue
+massachusetts,0.6002,0.3998,blue
+michigan,0.4726,0.5274,red
+minnesota,0.4648,0.5352,red
+mississippi,0.4007,0.5993,red
+missouri,0.3812,0.6188,red
+montana,0.3565,0.6435,red
+nebraska,0.3367,0.6633,red
+nevada,0.4788,0.5212,red
+new hampshire,0.4693,0.5307,red
+new jersey,0.5499,0.4501,blue
+new mexico,0.4821,0.5179,red
+new york,0.59,0.41,blue
+north carolina,0.4616,0.5384,red
+north dakota,0.272,0.728,red
+ohio,0.4359,0.5641,red
+oklahoma,0.289,0.711,red
+oregon,0.5006,0.4994,blue
+pennsylvania,0.4749,0.5251,red
+rhode island,0.544,0.456,blue
+south carolina,0.4068,0.5932,red
+south dakota,0.3165,0.6835,red
+tennessee,0.3474,0.6526,red
+texas,0.4324,0.5676,red
+utah,0.2743,0.7257,red
+vermont,0.5661,0.4339,blue
+virginia,0.4971,0.5029,red
+washington,0.5259,0.4741,blue
+west virginia,0.2637,0.7363,red
+wisconsin,0.4648,0.5352,red
+wyoming,0.2144,0.7856,red
